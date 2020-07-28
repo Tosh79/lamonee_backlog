@@ -9,7 +9,7 @@
 ## Über dieses Repository
 In diesem Repository findest Du sämtliche Features und Bugfixes (zusammen: Issues), die aktuell und zukünftig in \*lamonee integriert werden. Außerdem siehst Du auch, welche Meilensteine ich einplane und woran ich gerade in dieser Woche arbeite.
 
-* [Zur Liste alle offenen Issues](https://github.com/Tosh79/lamonee_backlog/issues)
+* [Zur Liste aller offenen Issues](https://github.com/Tosh79/lamonee_backlog/issues)
 * [Zu den Meilensteinen](https://github.com/Tosh79/lamonee_backlog/milestones)
 * [Zu den Wochensprints](https://github.com/Tosh79/lamonee_backlog/projects)
 
