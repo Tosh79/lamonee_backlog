@@ -3,24 +3,7 @@
 
 
 ## Über \*lamonee
-\*lamonee ist seit 2018 die Plattform zur Erstellung und Pflege von privaten Haushalts- und Budgetplänen.
-
-**Loyal -**
-Deine Daten gehören Dir ganz alleine. Kooperationen mit Datenverwertern oder sonstigen Drittanbietern lehnen wir allein schon aus Prinzip ab.
-
-**Omnipräsent -**
-Zuhause auf dem Notebook das Budget gepflegt, auf dem Smartphone den Einkauf erfasst und auf dem Tablet das Restbudget gecheckt. Mit \*lamonee überhaupt kein Problem. Alles, was Du benötigst, ist ein Browser und das Internet.
-
-**Effizient -**
-Budgeting macht weniger Spaß als Freibad. Deshalb greift \*lamonee Dir kräftig unter die Arme, wenn's um die Pflege Deines Budgets und Erfassung Deiner Ausgeben geht. Eine Viertelstunde im Monat, um den finanziellen Überblick zu wahren - mehr braucht's in der Regel nicht.
-
-**Technisch Exzellent -**
-\*lamonee setzt auf [Quasar](https://github.com/quasarframework/quasar) für's Frontend und [Laravel]https://github.com/laravel/laravel für's Backend und fasst damit zwei der fortschrittlichsten Web-Frameworks in einer Plattform zusammen.
-
-
-**Das findest Du interessant? -**
-Mehr Informationen gibt's auf https://www.lamonee.de .
-
+\*lamonee ist seit 2018 die Plattform zur Erstellung und Pflege von privaten Haushalts- und Budgetplänen. Mehr Informationen gibt's auf https://www.lamonee.de.
 
 
 ## Über dieses Repository
