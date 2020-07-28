@@ -3,7 +3,8 @@
 
 
 ## Über \*lamonee
-\*lamonee ist seit 2018 die Plattform zur Erstellung und Pflege von privaten Haushalts- und Budgetplänen. Mehr Informationen gibt's auf https://www.lamonee.de.
+\*lamonee ist seit 2018 die Plattform zur Erstellung und Pflege von privaten Haushalts- und Budgetplänen. 
+Mehr Informationen gibt's auf https://www.lamonee.de.
 
 
 ## Über dieses Repository
