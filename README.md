@@ -42,4 +42,7 @@ In diesem Repository findest Du sämtliche Features und Bugfixes (zusammen: Issu
 
 
 ## Über den Autor
-\*lamonee wird seit 2018 von [Tobias Schirski](mailto:tobias@lamonee.de) ist Eigenregie konzipiert, entworfen und weiterentwickelt. Wenn er nicht gerade vorm Rechner hängt oder seine Töchter über Kölns Spielplätze jagt, arbeitet er in einer großen Kölner Digitalagentur.
+\*lamonee wird seit 2018 von [Tobias Schirski](https://www.linkedin.com/in/tobiasschirski/) (Jahrgang '79) in Eigenregie konzipiert, entworfen und entwickelt. Wenn er nicht gerade vorm Rechner hängt oder seine Töchter über Kölns Spielplätze jagt, arbeitet er in einer großen Kölner Digitalagentur.
+
+Du möchtest in Kontakt mit mir treten? [Schreib' mir eine E-Mail](mailto:tobias@lamonee.de)
+
